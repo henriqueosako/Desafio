@@ -1,0 +1,21 @@
+Title: Failed to login with specific user name
+
+Description: It's not possible to log in with user name:FAILCASE
+
+Steps to Reproduce: 
+1. Access the url: https://the-internet.herokuapp.com/login
+2. Set Username field as FAILCASE
+3. Set Password field as SuperSecretPassword!
+4. Select Login Button
+
+Expected Result: Login should be done successfuly
+
+Actual: An error "Your username is invalid" occurred and it was not possible to performed login
+
+Functionality: Form Authentication (login)
+
+Browser: Mozilla Firefox - version 62.0 (64-bit)
+
+OS: Windows 10 - version 1803 (compilation:17134.228)
+
+Attachments: Bug evidence video is attached
