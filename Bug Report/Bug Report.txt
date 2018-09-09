@@ -18,4 +18,6 @@ Browser: Mozilla Firefox - version 62.0 (64-bit)
 
 OS: Windows 10 - version 1803 (compilation:17134.228)
 
+Automation Tool: Cucumber with Eclipse Selenium
+
 Attachments: Bug evidence video is attached
